@@ -1,6 +1,6 @@
 # Stack
-Back-end: streamlit with **pypdf loader**, langchain, Groq, HF embedding, chroma DB
-Front end: css, html, js 
+1. Back-end: streamlit with **pypdf loader**, langchain, Groq, HF embedding, chroma DB
+2. Front end: css, html, js 
 
 # Create these file/folder step by step
 1. requirements.txt

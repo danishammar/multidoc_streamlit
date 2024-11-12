@@ -10,10 +10,10 @@ Front end: css, html, js
 5. main.py
 6. vd.py
 
-# File Structure
+# Folder Structure
 main_folder/
 ├── data/
-│   └── ...                # Add your data files here (PDF)
+│   └── ...                # Add your data files here (e.g., CSV, PDF, etc.)
 ├── vector_db_dir/
 │   ├── 5fda9825-8220-4200-86be-51f973f4affa/
 │   │   └── link_lists.bin # Example binary or vector files
@@ -22,3 +22,4 @@ main_folder/
 ├── vd.py                  # Additional script (e.g., for vector database handling)
 ├── .env                   # Environment variables file (e.g., API keys, secrets)
 └── requirements.txt       # Python dependencies
+
